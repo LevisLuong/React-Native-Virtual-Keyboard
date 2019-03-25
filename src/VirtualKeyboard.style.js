@@ -25,4 +25,8 @@ module.exports = StyleSheet.create({
 		flex: 1,
 		justifyContent: 'center',
 	},
+	halfCell: {
+		flex: 0.5,
+		justifyContent: 'center',
+	},
 });
